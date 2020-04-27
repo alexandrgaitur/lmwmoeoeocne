@@ -1,0 +1,107 @@
+#EXTINF:-1 , PRO TV KISHINEV
+http://87.248.160.8/edge/smil:protv/chunklist_w1808252180_b2100000.m3u8
+#EXTINF:1,Chassepeche
+http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
+#EXTINF:-1 , TV7
+http://87.248.160.8/edge/smil:tv7/chunklist_w538665957_b2100000.m3u8
+#EXTINF:-1 , THT
+http://87.248.160.8/edge/smil:tnt/chunklist_w1061570841_b2100000.m3u8&nbsp;
+#EXTINF:1,N4
+http://87.248.160.8/edge/smil:n4/playlist.m3u8
+#EXTINF:1,Tvc21
+http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+#EXTINF:-1 , REN MOLDOVA
+http://87.248.160.8/edge/smil:rentv/chunklist_w1844694641_b2100000.m3u8
+#EXTINF:-1 , NOROC TV
+http://87.248.160.8/edge/smil:noroc/chunklist_w328149063_b2100000.m3u8
+#EXTINF:-1 , PUBLIKA TV
+http://87.248.160.8/edge/smil:publica/chunklist_w1130132731_b2100000.m3u8
+#EXTINF:-1 , BUSUIOC TV
+http://87.248.160.8/edge/smil:busuioc/chunklist_w1278427166_b2100000.m3u8
+#EXTINF:-1 , A-ONE
+http://87.248.160.8/edge/smil:aone/chunklist_w2021299708_b1200000.m3u8
+#EXTINF:-1 , MBC
+http://87.248.160.8/edge/smil:mbc/chunklist_w371243732_b2100000.m3u8
+#EXTINF:-1 , MOLDOVA 1
+http://87.248.160.8/edge/smil:m1/chunklist_w898219435_b2100000.m3u8
+#EXTINF:-1 , TVR&nbsp;
+http://87.248.160.8/edge/smil:tvr/chunklist_w1893942568_b2100000.m3u8
+#EXTINF:-1 , CANAL 3
+http://87.248.160.8/edge/smil:canal3/chunklist_w1154948551_b2100000.m3u8
+#EXTINF:-1 , EUROPA PLUS
+http://87.248.160.8/edge/smil:europ/chunklist_w408979901_b1200000.m3u8
+#EXTINF:-1 , DW
+http://87.248.160.8/edge/smil:dw/chunklist_w683036528_b2100000.m3u8
+#EXTM3
+#EXTINF:0,DIGI 24
+http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0, Jurnal TV
+http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+#EXTINF:-1 , RTR MOLDOVA
+http://87.248.160.8/edge/smil:rtrp/chunklist_w1299420160_b1200000.m3u8
+#EXTINF:-1 , MOLDOVA SPORT
+http://87.248.160.8/edge/smil:boet/chunklist_w1028544839_b2100000.m3u8
+#EXTINF:-1 , EURO TV
+http://87.248.160.8/edge/smil:eutv/chunklist_w1776476006_b2100000.m3u8
+#EXTINF:-1 , ALL TV<br />
+http://87.248.160.8/edge/smil:alttv/chunklist_w196518801_b2100000.m3u8
+#EXTINF:-1 , ACCENT TV
+http://87.248.160.8/edge/smil:accent/chunklist_w677386086_b2100000.m3u8
+#EXTINF:-1 , SOR TV
+http://87.248.160.8/edge/smil:sortv/chunklist_w1746628281_b2100000.m3u8
+#EXTINF:1,Fight
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:1,STV
+http://87.248.160.8/edge/smil:set/playlist.m3u8
+#EXTINF:1,Alt TV
+http://87.248.160.8/edge/smil:alttv/playlist.m3u8
+#EXTINF:1,Accent
+http://87.248.160.8/edge/smil:accent/playlist.m3u8
+#EXTINF:1,Sor TV
+http://87.248.160.8/edge/smil:sortv/playlist.m3u8
+#EXTINF:0, MBC HD
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+#EXTINF:0, Moldova 1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+#EXTINF:0, Moldova Sport HD
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:0, Prime
+http://87.248.160.8/edge/smil:prime/playlist.m3u8
+#EXTINF:0, PRO TV Chişinău
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:0, Publika TV
+http://87.248.160.8/edge/smil:publica/playlist.m3u8
+#EXTINF:0, Realitatea TV
+http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+#EXTINF:0, TVC 21
+http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+#EXTINF:0, TVR
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:1,Pro TV
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:1,M1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+#EXTINF:1,CTC
+http://87.248.160.8/edge/smil:sts/playlist.m3u8
+#EXTINF:1,Ren TV
+http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+#EXTINF:1,Noroc TV
+http://87.248.160.8/edge/smil:noroc/playlist.m3u8
+#EXTINF:1,Busuioc TV
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+#EXTINF:1,Gold TV HD
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#EXTINF:1,2Plus TV
+http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+#EXTINF:1,Canal3
+http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+#EXTINF:1,Animaux
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+#EXTINF:1,Encyclo
+http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
+#EXTINF:1,Tvr
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:1,Bravo
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+#EXTINF:1,Rtr
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
