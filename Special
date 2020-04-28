@@ -1,8 +1,8 @@
-#EXTINF:-1,Ro | Nickelodeon
-http://formen1.com:8080/ergun01/01042018/16726
-#EXTINF:-1,Ro | Disney Channel
-http://formen1.com:8080/ergun01/01042018/16712
-#EXTINF:-1 ,PUBLIKA TV_HD
-https://livebeta.publika.md/LIVE/P/1500.m3u8
-#EXTINF:-1 ,MOLDOVA 1
-http://www.trm.md/live/MoldovaUnu1/chunklist_w1943375279.m3u8
+#EXTINF:-1,PRO TV KISHINEV
+http://87.248.160.8/edge/smil:protv/chunklist_w1808252180_b2100000.m3u8
+#EXTINF:-1,MOLDOVA 1
+http://87.248.160.8/edge/smil:m1/chunklist_w898219435_b2100000.m3u8
+#EXTINF:-1,PUBLIKA TV
+http://87.248.160.8/edge/smil:publica/chunklist_w1130132731_b2100000.m3u8
+#EXTINF:-1,RTR MOLDOVA
+http://87.248.160.8/edge/smil:rtrp/chunklist_w1299420160_b1200000.m3u8
